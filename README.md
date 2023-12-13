@@ -1,1 +1,1 @@
-# Human-Ethnicity-Classifier
+# HumanEthnicityClassifier
